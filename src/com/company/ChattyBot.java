@@ -2,7 +2,7 @@ package com.company;
 import java.util.Scanner;
 
 public class ChattyBot {
-    final static Scanner scanner = new Scanner(System.in);
+    final static Scanner scanner = new Scanner(System.in);//
 
     public static void main(String[] args) {
         greet("Skynet", "1997"); // change it as you need
